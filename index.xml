@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on CAI Zichun</title>
+    <link>https://cai-zichun.github.io/</link>
+    <description>Recent content in HOME on CAI Zichun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CAI Zichun</copyright>
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://cai-zichun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Project – Guardian on Wrist</title>
+      <link>https://cai-zichun.github.io/hci-assignment/course-project/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/hci-assignment/course-project/</guid>
+      <description>Group: 3.Undefined Name: CAI, Zichun Student ID: 20928002
+Our Project Video</description>
+    </item>
+    
+    <item>
+      <title>Final Project – Guardian on Wrist</title>
+      <link>https://cai-zichun.github.io/post/course-project/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/post/course-project/</guid>
+      <description>Group: 3.Undefined
+Name: CAI, Zichun
+Student ID: 20928002
+Introduction to the project Our course project, Guardian on Wrist, aims to provide a watch-based proactive healthcare solution for the elderly in post pandemic era. Our goal is to design and prototype this product with enough functions that can deal with typical potential health threats in daily life. The prototyping process is divided into the phrases according to the course arrangement. At the first phrase, or what we called early design stage, we started from the initial idea, obeyed the four step of regular design procedure (Empathize, Interpret, Ideate, Verify) and eventually settled down the main functions and three major using cases.</description>
+    </item>
+    
+    <item>
+      <title>Essay II  The Unreliable – Using smart speaker as smart home’s portal</title>
+      <link>https://cai-zichun.github.io/post/essay-ii/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/post/essay-ii/</guid>
+      <description>Poster in Phase II
+In Essay I, I’ve mentioned that applying smart speaker as the central controller of the smart furniture may mass up everything when speaker misunderstands humans’ commands and send out wrong instructions to other furniture. For users, sometime it’s hard to withdraw these misunderstood commands, which might cause irreversible damage and even mass up everything. However, as I go deeper into this product, I have a better understand of this product, which leads to a change of the topic.</description>
+    </item>
+    
+    <item>
+      <title>The Unreliable – Using smart speaker as smart home’s portal</title>
+      <link>https://cai-zichun.github.io/hci-assignment/essay-ii/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/hci-assignment/essay-ii/</guid>
+      <description>Poster in Phase II
+In Essay I, I’ve mentioned that applying smart speaker as the central controller of the smart furniture may mass up everything when speaker misunderstands humans’ commands and send out wrong instructions to other furniture. For users, sometime it’s hard to withdraw these misunderstood commands, which might cause irreversible damage and even mass up everything. However, as I go deeper into this product, I have a better understand of this product, which leads to a change of the topic.</description>
+    </item>
+    
+    <item>
+      <title>Essay I   The Bad – Using smart speaker as smart home’s portal</title>
+      <link>https://cai-zichun.github.io/post/essay-i/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/post/essay-i/</guid>
+      <description>Poster in Phase I
+Nowadays, we are increasingly inseparable from the smart speaker. With strong potentials in playing audio, understanding humans’ commands and transmitting instructions, smart speakers are widely applied as a portal of smart home, working as a digital housekeeper to control other smart furniture. However, since this product is not mature enough, this housekeeper sometimes makes some mistakes, sending out wrong instructions to other furniture, and make furniture operate incorrectly or even the worse, letting them out of control.</description>
+    </item>
+    
+    <item>
+      <title>The Bad – Using smart speaker as smart home’s portal</title>
+      <link>https://cai-zichun.github.io/hci-assignment/essay-i/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/hci-assignment/essay-i/</guid>
+      <description>Poster in Phase I
+Nowadays, we are increasingly inseparable from the smart speaker. With strong potentials in playing audio, understanding humans’ commands and transmitting instructions, smart speakers are widely applied as a portal of smart home, working as a digital housekeeper to control other smart furniture. However, since this product is not mature enough, this housekeeper sometimes makes some mistakes, sending out wrong instructions to other furniture, and make furniture operate incorrectly or even the worse, letting them out of control.</description>
+    </item>
+    
+    <item>
+      <title>Sample project</title>
+      <link>https://cai-zichun.github.io/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://cai-zichun.github.io/portfolio/sample-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>
